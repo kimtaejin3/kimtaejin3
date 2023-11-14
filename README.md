@@ -1,10 +1,13 @@
 ### Hi there 👋
 
-#### My Contributions
+### 😄My Open Source Contributions
 
-- react Icons
+#### react Icons
+- (PR) [Resolve incorrect rendering of some colored icons](https://github.com/react-icons/react-icons/pull/830)
+- (PR) [Update Tabler icons](https://github.com/react-icons/react-icons/pull/811)
+- (ISSUE) [Some icons are not visible or look unnatural](https://github.com/react-icons/react-icons/issues/827)
 
-#### My Tech blog
+### My Tech blog
 
 <!--
 **kimtaejin3/kimtaejin3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

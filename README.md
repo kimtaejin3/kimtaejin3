@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+#### My Contributions
+
+- react Icons
+
+#### My Tech blog
+
 <!--
 **kimtaejin3/kimtaejin3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

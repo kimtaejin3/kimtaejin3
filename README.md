@@ -4,7 +4,6 @@
 
 #### React Icons
 - (PR) [Update tabler icons](https://github.com/react-icons/react-icons/pull/811)
-- (ISSUE) [Some icons are not visible or look unnatural](https://github.com/react-icons/react-icons/issues/827)
 - (PR) [Resolve incorrect rendering of some colored icons](https://github.com/react-icons/react-icons/pull/830)
 
 

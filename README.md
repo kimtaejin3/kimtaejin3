@@ -2,11 +2,11 @@
 
 ### :octocat:  My Open Source Contributions
 
-#### React Icons
+  #### React Icons
 - (PR) [Update tabler icons](https://github.com/react-icons/react-icons/pull/811)
 - (PR) [Resolve incorrect rendering of some colored icons](https://github.com/react-icons/react-icons/pull/830)
 
-### Education
+### 📖 Education
 - Computer science and Engineering, Chungnam National University (2020.03 ~ )
 - Codeit Sprint 4th
 

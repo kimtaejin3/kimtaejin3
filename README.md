@@ -7,7 +7,8 @@
 - (PR) [Resolve incorrect rendering of some colored icons](https://github.com/react-icons/react-icons/pull/830)
 
 ### Education
-- Computer science and Engineering, Chungnam National University
+- Computer science and Engineering, Chungnam National University (2020.03 ~ )
+- Codeit Sprint 4th
 
 ### 🌱 My Tech blog
 https://taejinkim-devlog.tistory.com/

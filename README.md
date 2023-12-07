@@ -6,6 +6,8 @@
 - (PR) [Update tabler icons](https://github.com/react-icons/react-icons/pull/811)
 - (PR) [Resolve incorrect rendering of some colored icons](https://github.com/react-icons/react-icons/pull/830)
 
+### Education
+- Computer science and Engineering, Chungnam National University
 
 ### 🌱 My Tech blog
 https://taejinkim-devlog.tistory.com/

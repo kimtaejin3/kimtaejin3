@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### :octocat:  My Open Source Contributions
+### :octocat: Open Source Contributions
 
   #### React Icons
 - (PR) [Update tabler icons](https://github.com/react-icons/react-icons/pull/811)
@@ -10,7 +10,7 @@
 - Computer science and Engineering, Chungnam National University (2020.03 ~ )
 - Codeit Sprint 4th
 
-### 🌱 My Tech blog
+### 🌱 Tech blog
 https://taejinkim-devlog.tistory.com/
 <!--
 **kimtaejin3/kimtaejin3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

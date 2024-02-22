@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### :octocat: Contributions
+### Open Source Contributes
 
   #### React Icons
 - (PR) [Update tabler icons](https://github.com/react-icons/react-icons/pull/811)

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Open Source Contributes
+### Open source Contributes
 
   #### React Icons
 - (PR) [Update tabler icons](https://github.com/react-icons/react-icons/pull/811)

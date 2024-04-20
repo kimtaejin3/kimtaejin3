@@ -8,5 +8,5 @@
 
 ### Work
 
-#### Gemmy Studio
+#### Gemmy studio
 - 노코드 웹빌더 서비스 기능 보완 (Next.js, Typescript, Supabase)

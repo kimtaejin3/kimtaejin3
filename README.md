@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=300&text=Taejin%20Kim&textBg=false&fontColor=f5d287)
 
 ### :octocat: Open Source Contribution
 #### React Icons

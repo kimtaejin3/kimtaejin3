@@ -17,3 +17,6 @@ Open Source Contribution 💡:
 
 - Flutter website <br>
 [Fix special key omission on Get Started/Test Drive page](https://github.com/flutter/website/pull/10721)
+
+- Eslint (eslint-plugin-react) <br>
+[[New] jsx-closing-tag-location: add line-aligned option](https://github.com/jsx-eslint/eslint-plugin-react/pull/3777)

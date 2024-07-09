@@ -3,13 +3,13 @@ Taejin Kim
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=kimtaejin3&show_icons=true">
 
 My stack of choice 💻: 
-- ReactJS 
+- React
 - Next.js
 - HTML & CSS
 
 A little about myself 🕵🏻‍♂️:
-- I'm currently learning `Typescript`, `NodeJS & Express`, `React Native`!
-- 2024 OSSCA mentee (Project Name: `NodeJS`)
+- I'm currently learning `Typescript`, `Node.js & Express`, `React Native`!
+- 2024 OSSCA mentee (Project Name: `Node.js`)
 
 Open Source Contribution 💡:
 - React Icons <a href="https://npmjs.com/react-icons"><img src="https://img.shields.io/npm/dm/react-icons.svg?style=plastic&logo=npm&label=&color=9cf" alt="react icons downloads" /></a> <br>

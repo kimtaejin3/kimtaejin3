@@ -9,6 +9,7 @@ My stack of choice 💻:
 
 A little about myself 🕵🏻‍♂️:
 - I'm currently learning `Typescript`, `Node.js & Express`, `React Native`!
+  
 - 2024 OSSCA mentee (Project name: `Node.js`)
 
 Open Source Contribution 💡:

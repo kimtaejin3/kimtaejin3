@@ -7,7 +7,7 @@ My stack of choice 💻:
 - Next.js
 - HTML & CSS
 
-A little about myself 🕵🏻‍♂️:
+A little about myself 🧑🏻‍💻:
 - I'm currently learning `Typescript`, `Node.js & Express`, `React Native`!
   
 - 2024 OSSCA mentee (Project: `Node.js`)

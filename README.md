@@ -12,7 +12,7 @@ A little about myself 🧑🏻‍💻:
   
 - 2024 OSSCA mentee (Project: `Node.js`)
 
-Open Source Contribution 💡:
+Open Source Contributions 💡:
 - React Icons <a href="https://npmjs.com/react-icons"><img src="https://img.shields.io/npm/dm/react-icons.svg?style=plastic&logo=npm&label=&color=9cf" alt="react icons downloads" /></a> <br>
 [Update tabler icons](https://github.com/react-icons/react-icons/pull/811) <br/>
 [Resolve incorrect rendering of some colored icons](https://github.com/react-icons/react-icons/pull/830)

@@ -22,3 +22,6 @@ Open Source Contributions 💡:
 
 - Eslint (eslint-plugin-react) <a href="https://npmjs.com/eslint-plugin-react"><img src="https://img.shields.io/npm/dm/eslint-plugin-react.svg?style=plastic&logo=npm&label=&color=9cf" alt="eslint-plugin-react downloads" /></a> <br>
 [[New] jsx-closing-tag-location: add line-aligned option](https://github.com/jsx-eslint/eslint-plugin-react/pull/3777)
+
+- Node.js <br>
+[doc: fix typo in diagnostic tooling support tiers document](https://github.com/nodejs/node/pull/54058)

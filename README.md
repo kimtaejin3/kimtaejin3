@@ -2,7 +2,7 @@ Taejin Kim
 ============
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=kimtaejin3&show_icons=true">
 
-My stack of choice 💻: 
+My stack 💻: 
 - React
 - Next.js
 - HTML & CSS

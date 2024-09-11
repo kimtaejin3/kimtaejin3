@@ -1,15 +1,12 @@
 Taejin Kim
 ============
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=kimtaejin3&show_icons=true">
 
 My stack 💻: 
 - React
 - Next.js
-- HTML & CSS
+- HTML / CSS
 
-A little about myself 🧑🏻‍💻:
-- I'm currently learning `Typescript`, `Node.js & Express`, `React Native`!
-  
+Experience:
 - 2024 OSSCA mentee (Project: `Node.js`)
 
 Open Source Contributions 💡:
@@ -25,3 +22,4 @@ Open Source Contributions 💡:
 
 - Node.js <br>
 [doc: fix typo in diagnostic tooling support tiers document](https://github.com/nodejs/node/pull/54058)
+

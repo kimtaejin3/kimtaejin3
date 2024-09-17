@@ -4,7 +4,6 @@ Taejin Kim
 My stack 💻: 
 - React
 - Next.js
-- HTML / CSS
 
 Experience:
 - 2024 OSSCA mentee (Project: `Node.js`)

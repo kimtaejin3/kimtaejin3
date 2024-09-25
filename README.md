@@ -6,7 +6,7 @@ My stack:
 - Next.js
 
 Experiences:
-- 2024 OSSCA mentee (Project: `Node.js`)
+- 2024 OSSCA `Node.js` mentee 
 
 Open Source Contributions:
 - React Icons <a href="https://npmjs.com/react-icons"><img src="https://img.shields.io/npm/dm/react-icons.svg?style=plastic&logo=npm&label=&color=9cf" alt="react icons downloads" /></a> <br>

@@ -5,6 +5,9 @@ My stack:
 - React
 - Next.js
 
+Education:
+- Computer Science and Engineering (Chungnam National Univ)
+
 Experiences:
 - 2024 OSSCA `Node.js` mentee 
 

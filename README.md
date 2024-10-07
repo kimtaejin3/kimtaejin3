@@ -6,7 +6,7 @@ My stack:
 - Next.js
 
 Education:
-- Computer Science and Engineering (Chungnam National Univ)
+- Computer Science and Engineering (Chungnam Nat'l Univ)
 
 Experiences:
 - 2024 OSSCA `Node.js` mentee 

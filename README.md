@@ -1,17 +1,17 @@
 Taejin Kim
 ============
 
-My stack: 
+📚 My stack
 - React
 - Next.js
 
-Education:
+🎓 Education
 - Computer Science and Engineering (Chungnam Nat'l Univ)
 
-Experiences:
+🎒 Experiences
 - 2024 OSSCA `Node.js` mentee 
 
-Open Source Contributions:
+🧑🏻‍💻 Open Source Contributions
 - React Icons <a href="https://npmjs.com/react-icons"><img src="https://img.shields.io/npm/dm/react-icons.svg?style=plastic&logo=npm&label=&color=9cf" alt="react icons downloads" /></a> <br>
 [Update tabler icons](https://github.com/react-icons/react-icons/pull/811) <br/>
 [Resolve incorrect rendering of some colored icons](https://github.com/react-icons/react-icons/pull/830)

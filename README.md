@@ -8,7 +8,8 @@ Taejin Kim
 🎓 Education
 - Computer Science and Engineering (Chungnam Nat'l Univ)
 
-🎒 Experiences
+🎒 Activities
+- CNU LIKELION web frontend 12th
 - 2024 OSSCA `Node.js` mentee 
 
 🧑🏻‍💻 Open Source Contributions

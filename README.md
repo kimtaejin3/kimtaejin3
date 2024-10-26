@@ -9,8 +9,8 @@ Taejin Kim
 - Computer Science and Engineering (Chungnam Nat'l Univ)
 
 🎒 Activities
-- CNU LIKELION web frontend 12th
-- 2024 OSSCA `Node.js` mentee 
+- CNU LIKELION web frontend 12th (2024.03)
+- 2024 OSSCA `Node.js` mentee (2024.07 ~ 2024.11)
 
 🧑🏻‍💻 Open Source Contributions
 - React Icons <a href="https://npmjs.com/react-icons"><img src="https://img.shields.io/npm/dm/react-icons.svg?style=plastic&logo=npm&label=&color=9cf" alt="react icons downloads" /></a> <br>

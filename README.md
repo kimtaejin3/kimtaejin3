@@ -1,7 +1,7 @@
 Taejin Kim
 ============
 
-📚 My stack
+📚 My stacks
 - React
 - Next.js
 

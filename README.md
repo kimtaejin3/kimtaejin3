@@ -1,9 +1,8 @@
 Taejin Kim
 ============
 
-📚 기술 스택
-- React
-- Next.js
+📚 주요 기술 스택
+- React, Next.js
 - Node.js, Express
 
 🎓 교육

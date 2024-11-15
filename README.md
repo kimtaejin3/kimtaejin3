@@ -1,18 +1,19 @@
 Taejin Kim
 ============
 
-📚 주로 사용하는 기술
+📚 사용 기술
 - React
 - Next.js
+- Node.js, Express
 
-🎓 교육
+🎓 교육
 - 충남대학교 컴퓨터융합학부 재학
 
 🎒 활동
 - 충남대학교 멋쟁이사자처럼 웹 프론트엔드 12기
 - 2024 오픈소스 컨트리뷰션 아카데미 참여형 Challenges, Masters 수료 (Node.js 팀)
 
-🧑🏻‍💻 Open Source Contributions
+🧑🏻‍💻 오픈소스 기여
 - React Icons <a href="https://npmjs.com/react-icons"><img src="https://img.shields.io/npm/dm/react-icons.svg?style=plastic&logo=npm&label=&color=9cf" alt="react icons downloads" /></a> <br>
 [Update tabler icons](https://github.com/react-icons/react-icons/pull/811) <br/>
 [Resolve incorrect rendering of some colored icons](https://github.com/react-icons/react-icons/pull/830)

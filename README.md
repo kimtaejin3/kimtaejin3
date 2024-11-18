@@ -4,9 +4,6 @@ Taejin Kim
 📚 주요 기술 스택
 - React, Next.js
 
-🎓 교육
-- 충남대학교 컴퓨터융합학부 재학
-
 🎒 활동
 - 충남대학교 멋쟁이사자처럼 웹 프론트엔드 12기
 - 2024 오픈소스 컨트리뷰션 아카데미 참여형 Challenges, Masters 수료 (Node.js 팀)

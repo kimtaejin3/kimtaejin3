@@ -19,7 +19,7 @@ Taejin Kim
 - Flutter website <br>
 [Fix special key omission on Get Started/Test Drive page](https://github.com/flutter/website/pull/10721)
 
-- Eslint-plugin-react <a href="https://npmjs.com/eslint-plugin-react"><img src="https://img.shields.io/npm/dm/eslint-plugin-react.svg?style=plastic&logo=npm&label=&color=9cf" alt="eslint-plugin-react downloads" /></a> <br>
+- eslint-plugin-react <a href="https://npmjs.com/eslint-plugin-react"><img src="https://img.shields.io/npm/dm/eslint-plugin-react.svg?style=plastic&logo=npm&label=&color=9cf" alt="eslint-plugin-react downloads" /></a> <br>
 [[New] jsx-closing-tag-location: add line-aligned option](https://github.com/jsx-eslint/eslint-plugin-react/pull/3777)
 
 - Node.js <br>

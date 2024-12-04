@@ -20,7 +20,7 @@ Taejin Kim
 [[New] jsx-closing-tag-location: add line-aligned option](https://github.com/jsx-eslint/eslint-plugin-react/pull/3777)
 
 - Node.js <br>
-[doc: fix typo in diagnostic tooling support tiers document](https://github.com/nodejs/node/pull/54058)
+[doc: fix typo in diagnostic tooling support tiers document](https://github.com/nodejs/node/pull/54058) <br/>
 [lib: add validation for options in compileFunction](https://github.com/nodejs/node/pull/56023)
 
 [![Solved.ac

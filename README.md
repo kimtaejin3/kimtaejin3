@@ -9,14 +9,14 @@ Taejin Kim
 - 2024 오픈소스 컨트리뷰션 아카데미 참여형 Challenges, Masters 수료 (Node.js 팀)
 
 🧑🏻‍💻 오픈소스 기여
-- React Icons <a href="https://npmjs.com/react-icons"><img src="https://img.shields.io/npm/dm/react-icons.svg?style=plastic&logo=npm&label=&color=9cf" alt="react icons downloads" /></a> <br>
+- React Icons <br>
 [Update tabler icons](https://github.com/react-icons/react-icons/pull/811) <br/>
 [Resolve incorrect rendering of some colored icons](https://github.com/react-icons/react-icons/pull/830)
 
 - Flutter website <br>
 [Fix special key omission on Get Started/Test Drive page](https://github.com/flutter/website/pull/10721)
 
-- eslint-plugin-react <a href="https://npmjs.com/eslint-plugin-react"><img src="https://img.shields.io/npm/dm/eslint-plugin-react.svg?style=plastic&logo=npm&label=&color=9cf" alt="eslint-plugin-react downloads" /></a> <br>
+- eslint-plugin-react <br>
 [[New] jsx-closing-tag-location: add line-aligned option](https://github.com/jsx-eslint/eslint-plugin-react/pull/3777)
 
 - Node.js <br>

@@ -8,9 +8,6 @@ Taejin Kim
 - 충남대학교 멋쟁이사자처럼 12기 웹 프론트엔드 
 - 2024 오픈소스 컨트리뷰션 아카데미 참여형 멘티
 
-블로그
-- [https://pearl-dev.me/](https://pearl-dev.me/)
-
 🧑🏻‍💻 오픈소스 기여
 - react-icons <br>
 [Update tabler icons](https://github.com/react-icons/react-icons/pull/811) <br/>

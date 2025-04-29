@@ -15,7 +15,4 @@ contributions
 [doc: fix typo in diagnostic tooling support tiers document](https://github.com/nodejs/node/pull/54058) <br/>
 [lib: add validation for options in compileFunction](https://github.com/nodejs/node/pull/56023)
 
-<br>
-solved.ac
-<br>
-![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaxowls1316)](https://solved.ac/rlaxowls1316)
+

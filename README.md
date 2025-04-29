@@ -18,5 +18,4 @@ contributions
 <br>
 solved.ac
 <br>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaxowls1316)](https://solved.ac/rlaxowls1316)
+![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaxowls1316)](https://solved.ac/rlaxowls1316)

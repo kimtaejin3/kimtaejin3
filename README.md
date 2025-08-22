@@ -7,6 +7,6 @@
 
 ## Open Source Contribution
 
-react-icons  / node.js / flutter-website / eslint-plugin-react / react-hook-form
+node.js  / react-icons / flutter-website / eslint-plugin-react / react-hook-form
 
 
